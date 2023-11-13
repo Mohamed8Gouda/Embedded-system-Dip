@@ -13,14 +13,15 @@ int main ()
 {
     float NumberA = 0;
     float NumberB = 0; 
+    float Temp  = 0; 
     printf("Enter value of a: ");
     scanf("%f", &NumberA);
     printf("Enter value of b: ");
     scanf("%f", &NumberB);
     // Logic 
-    NumberA += NumberB;
-    NumberB  = NumberA - NumberB ;
-    NumberA  = NumberA - NumberB ;
+    Temp = NumberA;
+    NumberA = NumberB;
+    NumberB = Temp ; 
     printf("After swapping, value of a = %0.2f\n",NumberA);
     printf("After swapping, value of b = %0.2f\n",NumberB);    
     return 0;
