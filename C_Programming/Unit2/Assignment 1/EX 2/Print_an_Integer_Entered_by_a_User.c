@@ -3,7 +3,7 @@
 /*
     ##########Console-output###
     Enter a integer: 25
-    You entered: 25
+    You entered: 25 
     ###########################
 */
 int main ()
