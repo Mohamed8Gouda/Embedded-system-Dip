@@ -16,6 +16,6 @@ int main ()
     scanf("%d", &Number1);
     scanf("%d", &Number2);
     Sum = Number1 + Number2; 
-    printf("You entered: %d",Sum);
+    printf("Sum: %d",Sum);
     return 0;
 }
