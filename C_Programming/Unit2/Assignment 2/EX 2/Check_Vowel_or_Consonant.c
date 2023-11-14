@@ -13,7 +13,7 @@
 int main ()
 {
     char Character = 0 ;
-    char condetion=0; 
+    char condetion = 0 ; 
     printf("Enter an alaphbet: "); 
     scanf ("%c",&Character);
     condetion = (Character=='a'||Character=='A'||Character=='e'||Character=='E'||Character=='o'||Character=='O'||Character=='i'||Character=='I'||Character=='u'||Character=='U');
