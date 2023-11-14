@@ -12,7 +12,7 @@
 */
 int main ()
 {
-    signed char Character = 0 ;
+    char Character = 0 ;
     char condetion=0; 
     printf("Enter an alaphbet: "); 
     scanf ("%c",&Character);
