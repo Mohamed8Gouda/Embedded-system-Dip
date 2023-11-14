@@ -43,7 +43,7 @@ int main ()
         break;
     }
     //output
-    printf("%0.2f %c %0.2f = %0.2f",arr[0],operator,arr[1],result);
+    printf("%0.1f %c %0.1f = %0.1f",arr[0],operator,arr[1],result);
     
     return 0;
 }
