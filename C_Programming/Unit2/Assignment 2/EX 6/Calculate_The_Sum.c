@@ -17,7 +17,7 @@ int main ()
     scanf ("%d",&Number);
     
     //Logic
-    for (int Counter = 0 ; Counter <= Number; Counter++ )
+    for (int Counter = 1 ; Counter <= Number; Counter++ )
     {
         Sum += Counter ;
     }
