@@ -20,7 +20,7 @@ int main ()
     scanf ("%d",&Number);
     
     //Logic
-    if (Number>1)
+    if (Number>0)
     {
         for (int Counter = Number ; Counter > 1; Counter-- )
         {
@@ -29,7 +29,7 @@ int main ()
 
         printf ("Factorial = %d",Factorial);
     }
-    else if (Number==0 || Number ==1)
+    else if (Number==0)
     {
         printf ("Factorial = 1");
     }
