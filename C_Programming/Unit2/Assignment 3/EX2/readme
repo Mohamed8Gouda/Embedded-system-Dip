@@ -1,0 +1,10 @@
+Calculate the Average using Array
+    Output
+    Enter the number of data: 6
+    1. Enter number: 45.3
+    2. Enter number: 67.5
+    3. Enter number: -45.6
+    4. Enter number: 20.34
+    5. Enter number: 33
+    6. Enter number: 45.6
+    Average = 27.69
