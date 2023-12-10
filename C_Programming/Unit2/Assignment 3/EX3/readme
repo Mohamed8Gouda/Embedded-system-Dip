@@ -1,0 +1,20 @@
+Transpose a matrix
+
+Output
+
+    Enter rows and column of matrix: 2
+    3
+    Enter a11:1
+    Enter a12:2
+    Enter a13:9
+    Enter a21:0
+    Enter a22:4
+    Enter a23:7
+    Entered Matrix:  
+    1  2  9          
+    0  4  7          
+    Transpose Matrix:
+    Entered Matrix:  
+    1  0  
+    2  4  
+    9  7
